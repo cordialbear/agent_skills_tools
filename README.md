@@ -118,6 +118,8 @@ Community-maintained skills and collections (verify before use):
 | [gotalab/skillport](https://github.com/gotalab/skillport) | Skills distribution via CLI or MCP |
 | [mhattingpete/claude-skills-marketplace](https://github.com/mhattingpete/claude-skills-marketplace) | Git, code review, and testing skills |
 | [kukapay/crypto-skills](https://github.com/kukapay/crypto-skills) |  cryptocurrency, web3 and blockchain skills. |
+| [vercel-labs/agent-skills](https://github.com/vercel-labs/agent-skills) | Vercel Labs collection of agent skills |
+| [agentskills/agentskills](https://github.com/agentskills/agentskills) | Large directory of agent skills (agentskills.io) |
 
 #### Document Processing
 
